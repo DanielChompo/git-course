@@ -94,4 +94,9 @@ Log in Successfully to https://qa-challenge.ensolvers.com and manage the to-do i
 #### Expected Results: The Folder fails to be created since the required field is empty
 #### Test Data: Valid User credentials to Log In.
 
+## CRs created:
+https://daniel9899.atlassian.net/browse/QE-1
+https://daniel9899.atlassian.net/browse/QE-3
+
+
 
